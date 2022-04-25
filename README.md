@@ -1,4 +1,4 @@
-# CS350-MCU-Thermostat
+# CS350-MCU-Projects
 A program designed to work with a TI CS3220 MCU to control temperature with button presses.
 
   The Thermostat project was designed to utilize the different components of the TI MCU to work just like a thermostat would in real life. It was designed so that the microcontroller could detect the tempurature. It also could read a temperature input by a user and increase the tempurature slowly to the desired temperature. The idea is that the microcontroller could be connected to a heater, and the heater would be activated until the desired temperature is reached. The microcontroller also had an LED light turn on whenever the heater was activated. It actively monitored buttons on the MCU which changed the tempurature to simulate changes in the weather.
